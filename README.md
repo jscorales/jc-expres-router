@@ -1,4 +1,4 @@
-# jc-expres-router
+# jc-express-router
 
 A very simple configuration based router middleware for express 4.x
 
