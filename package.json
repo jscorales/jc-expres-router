@@ -1,0 +1,22 @@
+{
+  "name": "jc-express-router",
+  "version": "0.0.1",
+  "author": "junel corales <jscorales@gmail.com>",
+  "description": "A configuration based router middleware for express",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jscorales/jc-expres-router"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "router",
+    "route"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscorales/jc-expres-router/issues"
+  },
+  "homepage": "https://github.com/jscorales/jc-expres-router"
+}
