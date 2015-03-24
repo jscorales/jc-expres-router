@@ -1,6 +1,6 @@
 {
   "name": "jc-express-router",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "junel corales <jscorales@gmail.com>",
   "description": "A configuration based router middleware for express",
   "main": "index.js",
